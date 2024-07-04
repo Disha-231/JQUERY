@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-box{
+    background-color: black;
+    width: 800px;
+    height: 800px;
+    margin:70px auto;
+}
+.brown{
+	width:100px;
+	height:100px;
+    background-color:#472414;
+	
+}
+.cream{
+	width:100px;
+	height:100px;
+    background-color:#996750;	
+}
+
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+}
